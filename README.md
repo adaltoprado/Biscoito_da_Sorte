@@ -25,10 +25,10 @@ Este é um aplicativo _mobile_ desenvolvido com _React Native_ que mostra a imag
 
 ```bash
 # Clone o repositório:
-$ git clone "link-deste-repositorio"
+$ git clone https://github.com/adaltoprado/Biscoito_da_Sorte
 
 # Abra o terminal na pasta do projeto:
-$ cd biscoito-da-sorte
+$ cd Biscoito_da_Sorte
 
 # Instale o:
 [Node.js](https://nodejs.org/en)
@@ -42,9 +42,12 @@ $ npm install -g expo-cli
 # Inicie o projeto:
 $ npx expo start
 
-# Com o _Expo Metro Bundler_ aberto, escolha a opção desejada para rodar o aplicativo em um emulador, dispositivo físico ou na _web_.
+# Com o _Expo Metro Bundler_ aberto, escolha a opção desejada para rodar o aplicativo em um emulador,  
+dispositivo físico ou na _web_.
 
-# Caso opte por rodar o aplicativo em um dispositivo físico, certifique-se de que esteja conectado à mesma rede _Wi-Fi_ do _PC_, e, o _Expo Client_ instalado no dispositivo. Para rodar o aplicativo, abra o _Expo Client_ e escaneie o _QR Code_ que será exibido no _Expo Metro Bundler_.
+# Caso opte por rodar o aplicativo em um dispositivo físico, certifique-se de que esteja conectado  
+à mesma rede _Wi-Fi_ do _PC_, e, o _Expo Client_ instalado no dispositivo. Para rodar o aplicativo,  
+abra o _Expo Client_ e escaneie o _QR Code_ que será exibido no _Expo Metro Bundler_.
 
 ```
 
