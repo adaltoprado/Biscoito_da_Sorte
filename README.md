@@ -2,7 +2,7 @@
 
 ![Biscoito da Sorte](./assets/biscoito.png)
 
-Este é um aplicativo _mobile_ desenvolvido com _React Native_ que exibe uma imagem de um biscoito, ao ser 'quebrado', exibe aleatoriamente uma frase motivacional. O usuário pode 'reiniciar' o biscoito para exibir novamente a imagem original.
+Este é um aplicativo _mobile_ desenvolvido com _React Native_ que mostra a imagem de um biscoito, o qual, ao ser 'quebrado', exibe aleatoriamente uma frase motivacional. O usuário pode 'reiniciar' o biscoito para exibir novamente a imagem original.
 
 ## Índice
 
@@ -49,8 +49,6 @@ $ npx expo start
 ```
 
 ## Aparência e Funcionalidade
-
-![videoApp](./assets/fortuneCookie.webm)
 
 ![cookieBreaker](./assets/cookieBreaker.png)
 
